@@ -1,0 +1,12 @@
+h1{
+  margin-right: 0%;
+}
+.box{
+  color: #91979c;
+    align-content: center;
+    /* width: 20rem; */
+    background: transparent;
+    background-clip: blur(10px);
+    /* margin-left: 30%; */
+    text-align: center;
+}

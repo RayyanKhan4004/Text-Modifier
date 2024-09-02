@@ -1,0 +1,50 @@
+html{
+    scroll-behavior: smooth;
+     
+}
+body{
+    background-image: url(back.jpeg);
+    /* background-image: url('your-background-image.jpg'); */
+    background-size: cover; /* This will make the background image cover the entire container */
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed; 
+    height: 100vh;
+    }
+.nav{
+    /* display: inline; */
+    height: 70px;
+    width: 1350px;
+    background-color: #2c2c2c;
+    border: 5px;
+    border-color: rgb(46, 143, 227);
+    /* display: inline; */
+}
+h1{
+    color: rgb(210, 210, 210);
+    /* width: 50px;
+    margin-right: 50px; */
+    display: inline-block;
+    margin-left: 10PX;
+}
+a{
+    margin-left: 0%;
+    margin-right: 12rem ;
+    text-decoration: none;
+    color: rgb(210, 210, 210);
+}
+/* #divvv{
+    height: 110px;
+    width: 750px;
+    background-color: aqua;
+} */
+#icon{
+  width: 25px;
+  height: 25px;
+  background-image: url(/text-modifier/src/components/navBAr/warn.svg);
+  background-size: contain;
+  /* display: inline; */
+}
